@@ -25,7 +25,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-w
 </div>
 
 <a href="https://github.com/github.com/FABIO-ADS">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FABIO-ADS&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FABIO-ADS&layout=compact&langs_count=7&layout=compact&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FABIO-ADS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
   
