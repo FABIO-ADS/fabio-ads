@@ -1,6 +1,6 @@
-## BEM VINDO AO MEU GITHUB!
+## WELCOME TO MY GITHUB!
 
-## Estou aprendendo...
+## I am learning...
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60" height="60"/><img         
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/><img                                                
